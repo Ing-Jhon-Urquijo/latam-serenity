@@ -12,12 +12,3 @@ Automatización UI de la búsqueda de vuelos en [LATAM Airlines](https://www.lat
 ## ▶️ Cómo ejecutar
 ```bash
 mvn clean verify
-```
-
-## 📂 Reporte
-Abre: `target/site/serenity/index.html`
-
-## 🧪 Casos de prueba
-1. Búsqueda de vuelo origen/destino válidos
-2. Validación campos obligatorios
-3. Prueba negativa (datos inválidos)
